@@ -5,6 +5,17 @@ Communication Contract
 I commit to communicating clearly and responding promptly to all question or concerns. I am generally available and most responsive between 3:30 PM-1:00 PM PST, Monday through Friday. If any issues accessing or using the microservice, please reach out immediately via Discord.
 
 http://localhost:3033/calculatetax
+Repo:  https://github.com/Joanna324/tax-rate-microservice.git
+
+To run locally needed/ Setup:
+
+1. Node.js version 18 or higher installed.
+2. Clone the repo:
+   git clone  https://github.com/Joanna324/tax-rate-microservice.git
+3. Install dependencies:
+   npm install
+4. Start the microservice:
+   npm start
 
 ---
 
