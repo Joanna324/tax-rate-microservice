@@ -63,7 +63,8 @@ fetch('http://localhost:3005/calculatetax', {
   .then(data => {console.log(data.tax_amount);});
 
 
-![Screenshot](Screenshot 2025-08-04 202044.png)
+![Screenshot](Screenshot%202025-08-04%20202044.png)
+
 
 
 
