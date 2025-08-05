@@ -62,3 +62,10 @@ fetch('http://localhost:3005/calculatetax', {
   .then(res => res.json())       
   .then(data => {console.log(data.tax_amount);});
 
+
+![Screenshot](Screenshot 2025-08-04 202044.png)
+
+
+
+  
+
